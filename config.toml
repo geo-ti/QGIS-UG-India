@@ -107,7 +107,7 @@ matomoURL = "//matomo.qgis.org/"
 matomoSiteId = '7'
 
 # commit hash file
-commitFile = "static/commit.txt"
+commitFile = "config/commit.toml"
 
 # This will cause html in markdown files to be rendered directly
 [markup]
