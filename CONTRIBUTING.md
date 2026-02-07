@@ -67,7 +67,7 @@ dpkg -x hugo_extended_0.139.3_linux-amd64.deb
 
 ### 🪟 Windows
 
-[Follow these notes](https://gohugo.io/installation/windows/#prebuilt-binaries)
+
 
 ### 🍏 macOS: 
 
