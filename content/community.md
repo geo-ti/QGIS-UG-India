@@ -40,9 +40,9 @@ Discover companies, contributors, and products from India supporting QGIS.
 
 ### How to Join
 
-- Email: [community@example.com]
-- Join our chat: [link]
-- Follow updates: [social links]
+- Join our official Google group: [Google Group](https://groups.google.com/g/qgis-india)
+- Join our Telegram chat: [[Telegram](https://t.me/+YVUWbgjA320wZGU1)]
+<!-- - Follow updates: [social links] -->
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
